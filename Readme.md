@@ -15,8 +15,8 @@ This project demonstrates the integration of Zegocloud's API to implement a real
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/miracneroid/Video-Conference.git
+   cd Video-Conference
    ```
 
 2. **Install dependencies:**
