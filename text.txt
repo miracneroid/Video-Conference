@@ -1,0 +1,2 @@
+git remote add origin https://github.com/miracneroid/Video-Conference.git
+git push -u origin main
