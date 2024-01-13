@@ -90,7 +90,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you encounter any issues or have questions, feel free to open an [issue](https://github.com/your-username/your-repo/issues).
+If you encounter any issues or have questions, feel free to open an [issue](https://miracneroid.netlify.app).
 
 ---
 **Note:** Add any additional information, acknowledgments, or sections relevant to your project.
